@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "task4",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../Users/TECH CLOUD/Desktop/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "task4"
+	}
+}
